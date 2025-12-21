@@ -1,0 +1,10 @@
+[package]
+name = "PSolve"
+version = "0.1.0"
+edition = "2024"
+
+[workspace]
+members = ["problems/*"]
+resolver = "2"
+
+[dependencies]
