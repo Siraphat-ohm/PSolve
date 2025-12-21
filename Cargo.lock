@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "good_pairs"
 version = "0.1.0"
+
+[[package]]
+name = "improvement"
+version = "0.1.0"
