@@ -11,5 +11,13 @@ name = "improvement"
 version = "0.1.0"
 
 [[package]]
+name = "inversion"
+version = "0.1.0"
+
+[[package]]
+name = "roundtable"
+version = "0.1.0"
+
+[[package]]
 name = "smallest"
 version = "0.1.0"
